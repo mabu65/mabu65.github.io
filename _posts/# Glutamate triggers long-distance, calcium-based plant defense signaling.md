@@ -1,0 +1,37 @@
+---
+layout: post
+title: Blogging Like a Hacker
+---
+
+# Glutamate triggers long-distance, calcium-based plant defense signaling
+
+Plants sense local signals.
+Glutamate is a wound signal in plants.
+Ion channels of the glutamate receptor-like convert the signal into an increase in intracellular calcium ion concentration that propagates to distant organs.
+
+## Intro: Signal networks
+- reactive oxygen species
+- electrical signals
+	Depend on glutamate receptor-like (GLR) proteins -- from pathogen defense to root growth
+	How GLRs are triggered by wounding
+- changes in cytosolic $Ca^2+$ concentration
+	How subsequent $Ca^2+$ related signaling event operate to mediate systemic defense
+
+## Methods
+caterpillar (毛虫) on an Arabidopsis plant(拟南芥) expressing the GCaMP3 fluorescent protein-based $Ca^2+$ sensor revealed **an increase in $Ca^2+$ at the herbivory site within 2 s that was transmitted over 1 to 2 min to distal leaves.**
+Using scissors also caused a same changing -- herbivore chemical signals are not required.
+
+## Comparison experiments
+Wounded leaf 1 and monitored systemic responses in target leaf 6 and non target leaf 5.
+plasmodesmata
+
+phloem(筛管)
+
+
+
+
+
+
+
+
+
