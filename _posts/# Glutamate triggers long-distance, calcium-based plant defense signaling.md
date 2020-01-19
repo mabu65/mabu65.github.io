@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title: "Glutamate triggers long-distance, calcium-based plant defense signaling"
+date:   2020-01-19 10:03:36 +0000
+categories: Note
 ---
 
 # Glutamate triggers long-distance, calcium-based plant defense signaling
