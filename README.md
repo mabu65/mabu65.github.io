@@ -1,6 +1,6 @@
-# plainwhite
+# Mabu's Blog
 
-Simplistic jekyll portfolio-style theme for writers.
+<!--Simplistic jekyll portfolio-style theme for writers.
 
 **Demo**: [thelehhman.com](https://thelehhman.com)
 
@@ -141,6 +141,6 @@ To add a custom directory to your theme-gem, please edit the regexp in `plainwhi
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
-## More themes
+## More themes-->
 
-- [Texture](https://github.com/thelehhman/texture)
+- [Link](https://www.mabu.best)
