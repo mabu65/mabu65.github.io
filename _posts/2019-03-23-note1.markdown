@@ -7,7 +7,7 @@ categories: Matlab
 
 Matlab
 
-<img src="note1_1.png" style="zoom:67%;" />
+<img src="_posts/note1_1.png" style="zoom:67%;" />
 
 <!-- ; javascript
 // const Razorpay = require('razorpay');
