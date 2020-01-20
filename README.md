@@ -143,4 +143,5 @@ The theme is available as open source under the terms of the [MIT License](https
 
 ## More themes-->
 
-<a href="https://www.mabu.best" target="_blank">Link</a>
+[Link](https://www.mabu.best){:target="_blank"}
+
