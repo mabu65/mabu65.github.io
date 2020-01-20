@@ -6,8 +6,7 @@ categories: Matlab
 ---
 Project Name: mbImg
 
-**Project Name: mbImg**  
-
+**Project Name: mbImg** <br>
 **Tool: Matlab App Designer**
 
 <img src="/assets/note1_1.png" alt="Interface" style="zoom:67%;" />
