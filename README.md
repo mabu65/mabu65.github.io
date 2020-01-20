@@ -143,6 +143,6 @@ The theme is available as open source under the terms of the [MIT License](https
 
 ## More themes-->
 
-<https://www.mabu.best>{:target="_blank"}
+<a href="https://www.mabu.best" target="_blank">Link</a>
 
 
