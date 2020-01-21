@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Simple Img Tools Based on MatLab"
+title:  "Simple Img Processing Tool Based on MatLab"
 date:   2020-01-19 01:40:36 +0000
 categories: Matlab
 comments: true
