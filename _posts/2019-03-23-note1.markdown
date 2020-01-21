@@ -12,4 +12,4 @@ Project Name: mbImg
 
 <img src="/assets/note1_1.png" alt="Interface" style="zoom:67%;" />
 
-{% include disqus.html %}
+<!-- {% include disqus.html %} -->
