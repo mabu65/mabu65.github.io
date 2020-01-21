@@ -3,6 +3,7 @@ layout: post
 title:  "Simple Img Tools Based on MatLab"
 date:   2020-01-19 01:40:36 +0000
 categories: Matlab
+comments: true
 ---
 Project Name: mbImg
 
@@ -10,6 +11,8 @@ Project Name: mbImg
 **Tool: Matlab App Designer**
 
 <img src="/assets/note1_1.png" alt="Interface" style="zoom:67%;" />
+
+{% include disqus.html %}
 
 <!-- ; javascript
 // const Razorpay = require('razorpay');
