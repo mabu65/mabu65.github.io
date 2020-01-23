@@ -2,6 +2,10 @@
 @import "ext/normalize";
 @import "syntax";
 
+@font-face { font-family: INVIASION2000; 
+			 src: url('../assets/font/INVIASION2000.ttf'); } 
+
+
 $linkColor: #0a59b0;
 $mobileW: 768px;
 $smallMobileW: 480px;
