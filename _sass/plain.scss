@@ -2,10 +2,7 @@
 @import "ext/normalize";
 @import "syntax";
 
-@font-face { font-family: INVIASION2000; 
-       src: url('../assets/font/INVIASION2000.ttf'),
-            url('../assets/font/INVASION2000.eot'),
-            url('../assets/font/INVASION2000.woff'); } 
+
 
 
 $linkColor: #0a59b0;
@@ -21,7 +18,7 @@ $leftWidth: 220px;
 }
 
 body {
-  font-family: "Raleway","INVASION2000",sans-serif;
+  font-family: "Raleway",sans-serif;
   font-size: 16px;
   line-height: 1.2em;
   margin: 0;
@@ -94,6 +91,7 @@ main {
     flex-direction: column;
     align-items: center;
     h2 {
+      font-family: "INVASION2000";
       font-size: 22px;
       margin-top: 25px;
       margin-bottom: 0;

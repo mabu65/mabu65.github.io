@@ -9,6 +9,15 @@
   font-weight: normal;
   font-style: normal;
 }
+@font-face { 
+  font-family: 'INVIASION2000'; 
+  src: url('../font/INVASION2000.eot?26793073');
+  src: url('../font/INVIASION2000.ttf?26793073')format('truetype'),
+       url('../font/INVASION2000.eot?26793073#iefix')format('embedded-opentype'),
+       url('../font/INVASION2000.woff?26793073')format('woff'); 
+  font-weight: normal;
+  font-style: normal;
+} 
 /* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
 /* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
 /*
