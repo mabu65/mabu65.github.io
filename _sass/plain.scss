@@ -3,7 +3,9 @@
 @import "syntax";
 
 @font-face { font-family: INVIASION2000; 
-			 src: url('../assets/font/INVIASION2000.ttf'); } 
+       src: url('/assets/font/INVIASION2000.ttf'),
+            url('/assets/font/INVASION2000.eot'),
+            url('/assets/font/INVASION2000.woff'); } 
 
 
 $linkColor: #0a59b0;
@@ -19,7 +21,7 @@ $leftWidth: 220px;
 }
 
 body {
-  font-family: "Raleway", sans-serif;
+  font-family: "Raleway","INVASION2000",sans-serif;
   font-size: 16px;
   line-height: 1.2em;
   margin: 0;
