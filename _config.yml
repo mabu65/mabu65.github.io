@@ -1,8 +1,8 @@
 title: Digital-Mabu
 author: mabu65
 email: mabuinuk@gmail.com
-description: > # this means to ignore newlines until "show_exerpts:"
-  Sharing Some Things.
+description: Sharing Some Things. # this means to ignore newlines until "show_exerpts:"
+  
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
